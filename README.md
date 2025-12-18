@@ -1,4 +1,4 @@
-https://github.com/Suppyour/mesto-ad
+https://github.com/SlavaDin/mesto-ad
 
 Стартовый набор для выполнения проектной работы Место
 
